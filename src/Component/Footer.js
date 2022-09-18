@@ -44,8 +44,7 @@ const Footer = () => {
             />
             <p>
               <a href="https://goo.gl/maps/PZ5hDFJ3aZgrFVhr9">
-                Tasty Truckers ,May Flower Gardens Marigold, Kansai, Ambernath,
-                Maharashtra 421501
+               Tasty Truckers,Beside May Flower gardens,Shiv Mandir Road,near old Bus Stop,Ambernath, 421501.
               </a>
             </p>
           </div>
